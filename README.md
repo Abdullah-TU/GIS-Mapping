@@ -3,6 +3,6 @@ I utilize QGIS to create detailed spatial analyses, mapping out ecological patte
 
 
 <p float="left">  
-<img src="https://github.com/Abdullah-TU/GIS-Mapping/blob/main/Study_Area_Map(Rangpur-Dinajpur).png" width="520" height="410">
-<img src="https://github.com/Abdullah-TU/GIS-Mapping/blob/main/Rangpur_Ruster_image.png" width="520" height="410">
+<img src="https://github.com/Abdullah-TU/GIS-Mapping/blob/main/Study_Area_Map(Rangpur-Dinajpur).png" width="820" height="610">
+<img src="https://github.com/Abdullah-TU/GIS-Mapping/blob/main/Rangpur_Ruster_image.png" width="520" height="510">
 </p>
