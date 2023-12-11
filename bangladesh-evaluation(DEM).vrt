@@ -1,0 +1,22 @@
+<VRTDataset rasterXSize="43201" rasterYSize="25201">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>  8.4999860999999996e+01,  2.7777800000000001e-04,  0.0000000000000000e+00,  2.7000139000000001e+01,  0.0000000000000000e+00, -2.7777800000000001e-04</GeoTransform>
+  <VRTRasterBand dataType="Int16" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">3753</MDI>
+      <MDI key="STATISTICS_MEAN">287.85577169857</MDI>
+      <MDI key="STATISTICS_MINIMUM">-25</MDI>
+      <MDI key="STATISTICS_STDDEV">419.39626575542</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">95.21</MDI>
+    </Metadata>
+    <NoDataValue>-32768</NoDataValue>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">bangladesh-evaluation(DEM).0.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="43201" RasterYSize="25201" DataType="Int16" BlockXSize="43201" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="43201" ySize="25201" />
+      <DstRect xOff="0" yOff="0" xSize="43201" ySize="25201" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
